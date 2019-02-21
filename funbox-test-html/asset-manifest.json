@@ -1,15 +1,15 @@
 {
-  "main.css": "/funbox-test-html/static/css/main.dc9f45ec.chunk.css",
-  "main.js": "/funbox-test-html/static/js/main.9ce76717.chunk.js",
-  "main.js.map": "/funbox-test-html/static/js/main.9ce76717.chunk.js.map",
-  "runtime~main.js": "/funbox-test-html/static/js/runtime~main.edca5c68.js",
-  "runtime~main.js.map": "/funbox-test-html/static/js/runtime~main.edca5c68.js.map",
-  "static/js/2.b2f5ab12.chunk.js": "/funbox-test-html/static/js/2.b2f5ab12.chunk.js",
-  "static/js/2.b2f5ab12.chunk.js.map": "/funbox-test-html/static/js/2.b2f5ab12.chunk.js.map",
-  "index.html": "/funbox-test-html/index.html",
-  "precache-manifest.70a03a127ff44a239474d3a7722e4013.js": "/funbox-test-html/precache-manifest.70a03a127ff44a239474d3a7722e4013.js",
-  "service-worker.js": "/funbox-test-html/service-worker.js",
-  "static/css/main.dc9f45ec.chunk.css.map": "/funbox-test-html/static/css/main.dc9f45ec.chunk.css.map",
-  "static/media/index.css": "/funbox-test-html/static/media/pattern.acfeac28.jpg",
-  "static/media/Product.scss": "/funbox-test-html/static/media/cat-small.25f881ab.png"
+  "main.css": "/static/css/main.9f08662d.chunk.css",
+  "main.js": "/static/js/main.a9ef3900.chunk.js",
+  "main.js.map": "/static/js/main.a9ef3900.chunk.js.map",
+  "runtime~main.js": "/static/js/runtime~main.fdfcfda2.js",
+  "runtime~main.js.map": "/static/js/runtime~main.fdfcfda2.js.map",
+  "static/js/2.b2f5ab12.chunk.js": "/static/js/2.b2f5ab12.chunk.js",
+  "static/js/2.b2f5ab12.chunk.js.map": "/static/js/2.b2f5ab12.chunk.js.map",
+  "index.html": "/index.html",
+  "precache-manifest.26e6288dfd87f7074811470e928dd6f9.js": "/precache-manifest.26e6288dfd87f7074811470e928dd6f9.js",
+  "service-worker.js": "/service-worker.js",
+  "static/css/main.9f08662d.chunk.css.map": "/static/css/main.9f08662d.chunk.css.map",
+  "static/media/index.css": "/static/media/pattern.acfeac28.jpg",
+  "static/media/Product.scss": "/static/media/cat-small.25f881ab.png"
 }
